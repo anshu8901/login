@@ -102,7 +102,7 @@ color:#fff;
 	flex-direction: column;
 	gap: 20px;
 	width: 70%;
-	transform: translateY(120px);
+	transform: translateY(125px);
 	transition: 0.5s;
 }
 .box:hover .loginBx
